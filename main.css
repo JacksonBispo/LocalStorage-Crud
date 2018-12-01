@@ -1,0 +1,24 @@
+.boxes{width:50%;
+    margin:0 auto;
+}
+#listarTarefas{
+    width: 50%;
+   
+}
+#listarTarefas span{
+ float: right;
+}
+li{
+    list-style: none;
+    margin: 30px;
+    width: 100%;
+}
+
+button{
+    float: right;
+    padding: 2px;
+    border: none;
+    background-color:#ffff;
+    color: red; 
+    
+}
